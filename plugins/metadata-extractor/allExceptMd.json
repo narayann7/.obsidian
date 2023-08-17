@@ -1,0 +1,205 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "public",
+      "relativePath": "public"
+    },
+    {
+      "name": "images",
+      "relativePath": "images"
+    },
+    {
+      "name": "private",
+      "relativePath": "private"
+    },
+    {
+      "name": "sketches",
+      "relativePath": "sketches"
+    },
+    {
+      "name": "excalidraw",
+      "relativePath": "images/excalidraw"
+    },
+    {
+      "name": "canvas",
+      "relativePath": "sketches/canvas"
+    },
+    {
+      "name": "excalidraw",
+      "relativePath": "sketches/excalidraw"
+    },
+    {
+      "name": "career",
+      "relativePath": "private/career"
+    },
+    {
+      "name": "current",
+      "relativePath": "private/current"
+    },
+    {
+      "name": "incomplete",
+      "relativePath": "private/incomplete"
+    },
+    {
+      "name": "db",
+      "relativePath": "sketches/db"
+    },
+    {
+      "name": "learning",
+      "relativePath": "private/learning"
+    },
+    {
+      "name": "selfhelp",
+      "relativePath": "private/selfhelp"
+    },
+    {
+      "name": "structures",
+      "relativePath": "private/structures"
+    },
+    {
+      "name": "learning",
+      "relativePath": "images/learning"
+    },
+    {
+      "name": "tech",
+      "relativePath": "images/tech"
+    },
+    {
+      "name": "thoughts",
+      "relativePath": "private/thoughts"
+    },
+    {
+      "name": "todo",
+      "relativePath": "private/todo"
+    },
+    {
+      "name": "technology",
+      "relativePath": "private/technology"
+    },
+    {
+      "name": "projects",
+      "relativePath": "private/projects"
+    },
+    {
+      "name": "job",
+      "relativePath": "private/career/job"
+    },
+    {
+      "name": "cs",
+      "relativePath": "images/excalidraw/cs"
+    },
+    {
+      "name": "work",
+      "relativePath": "private/career/work"
+    },
+    {
+      "name": "concepts",
+      "relativePath": "private/learning/concepts"
+    },
+    {
+      "name": "cs",
+      "relativePath": "private/learning/cs"
+    },
+    {
+      "name": "products",
+      "relativePath": "private/selfhelp/products"
+    },
+    {
+      "name": "nutrients",
+      "relativePath": "private/selfhelp/nutrients"
+    },
+    {
+      "name": "tech",
+      "relativePath": "private/learning/tech"
+    },
+    {
+      "name": "cheat sheets",
+      "relativePath": "private/learning/cheat sheets"
+    },
+    {
+      "name": "howto?",
+      "relativePath": "private/learning/howto?"
+    },
+    {
+      "name": "Unclutter Notes",
+      "relativePath": "private/todo/Unclutter Notes"
+    },
+    {
+      "name": "low level design",
+      "relativePath": "private/learning/cs/low level design"
+    },
+    {
+      "name": "system design",
+      "relativePath": "private/learning/cs/system design"
+    },
+    {
+      "name": "git",
+      "relativePath": "private/learning/cs/git"
+    },
+    {
+      "name": "flutter",
+      "relativePath": "private/learning/tech/flutter"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "Untitled.canvas",
+      "basename": "Untitled",
+      "relativePath": "sketches/canvas/Untitled.canvas"
+    },
+    {
+      "name": "character.excalidrawlib",
+      "basename": "character",
+      "relativePath": "sketches/db/character.excalidrawlib"
+    },
+    {
+      "name": "icons.excalidrawlib",
+      "basename": "icons",
+      "relativePath": "sketches/db/icons.excalidrawlib"
+    },
+    {
+      "name": "shape.excalidrawlib",
+      "basename": "shape",
+      "relativePath": "sketches/db/shape.excalidrawlib"
+    },
+    {
+      "name": "shapes.excalidrawlib",
+      "basename": "shapes",
+      "relativePath": "sketches/db/shapes.excalidrawlib"
+    },
+    {
+      "name": "wireframe.excalidrawlib",
+      "basename": "wireframe",
+      "relativePath": "sketches/db/wireframe.excalidrawlib"
+    },
+    {
+      "name": "dart-cheatsheet.jpg",
+      "basename": "dart-cheatsheet",
+      "relativePath": "images/learning/dart-cheatsheet.jpg"
+    },
+    {
+      "name": "recital.txt",
+      "basename": "recital",
+      "relativePath": "images/learning/recital.txt"
+    },
+    {
+      "name": "Association.png",
+      "basename": "Association",
+      "relativePath": "images/excalidraw/cs/Association.png"
+    },
+    {
+      "name": "class_uml.png",
+      "basename": "class_uml",
+      "relativePath": "images/excalidraw/cs/class_uml.png"
+    },
+    {
+      "name": "Unclutter Note 2023-07-18 15.56.05.txt",
+      "basename": "Unclutter Note 2023-07-18 15.56.05",
+      "relativePath": "private/todo/Unclutter Notes/Unclutter Note 2023-07-18 15.56.05.txt"
+    }
+  ]
+}

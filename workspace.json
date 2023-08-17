@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "b5457a7d8b7d53e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7fa2d486192c253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f941fe6848f542c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/selfhelp/maintenance Calories.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91952ea586762abf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7c5477cb1c62cc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e288b378e9169b02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8acc55e0efde4cbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8aa8ec7d78bf7a30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "b533c46ea16455d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "aac9b880b37c80a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d141c38070057b66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "private/selfhelp/maintenance Calories.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef7c5dc2c794b7a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9faf40dd46b813b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "private/selfhelp/maintenance Calories.md"
+              }
+            }
+          },
+          {
+            "id": "34f7827a98077dc0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "2f941fe6848f542c",
+  "lastOpenFiles": [
+    "private/learning/concepts/obsdian and md.md",
+    "private/selfhelp/maintenance Calories.md",
+    "private/learning/cs/git/Writing a Good Git Commit.md",
+    "private/learning/cs/system design/system design concepts.md",
+    "private/learning/cs/git",
+    "images/Pasted image 20230814124755.png",
+    "images/Pasted image 20230814124718.png",
+    "private/learning/cs/important.md",
+    "private/selfhelp/products/head shave.md",
+    "private/selfhelp/products",
+    "private/current/home dump.md",
+    "private/todo/links.md",
+    "private/todo/Day.md",
+    "private/todo/General.md",
+    "private/selfhelp/nutrients/types.md",
+    "private/selfhelp/nutrients/Untitled.md",
+    "private/incomplete/tax planning 💰.md",
+    "private/selfhelp/nutrients",
+    "private/learning/cs/low level design/0 index LLD.md",
+    "private/learning/tech/flutter/testing.md",
+    "private/career/work/todo.md",
+    "private/career/work/app config.md",
+    "sketches/excalidraw/current working file.md",
+    "private/incomplete/paths.md",
+    "get_path_of_finder.zsh",
+    "private/todo/Unclutter Notes/Unclutter Note 2023-07-18 15.56.05.txt",
+    "sketches/canvas/Untitled.canvas",
+    "sketches/excalidraw/Drawing 2023-06-05 17.51.03.excalidraw.md",
+    "images/excalidraw/cs/Association.png",
+    "images/excalidraw/cs/class_uml.png",
+    "sketches/db/wireframe.excalidrawlib",
+    "sketches/db/shapes.excalidrawlib",
+    "sketches/db/shape.excalidrawlib",
+    "sketches/db/icons.excalidrawlib",
+    "sketches/db/character.excalidrawlib",
+    "private/learning/cs/low level design/Low Level Design 👻.md",
+    "private/learning/tech/flutter/rsa.md",
+    "private/learning/tech/flutter/sign apk.md",
+    "private/learning/tech/flutter/ui.md",
+    "private/projects/portfolio v2.md",
+    "private/current/Untitled.md",
+    "images/learning/dart-cheatsheet.jpg",
+    "images/dart-cheatsheet.jpg",
+    "images/image_6aa54e21-65de-47b2-b4dd-4c699219af3720211023_073137.jpg",
+    "sketch/canvas/Untitled.canvas",
+    "public/sketch/canvas/Untitled.canvas",
+    "Untitled.canvas",
+    "images/Pasted image 20230613125418.png",
+    "images/Pasted Image 20230613174305_966.png",
+    "images/Pasted Image 20230613183146_333.png",
+    "Untitled 1.canvas"
+  ]
+}

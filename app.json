@@ -1,0 +1,17 @@
+{
+  "showLineNumber": false,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "promptDelete": false,
+  "newFileFolderPath": "private/current",
+  "strictLineBreaks": true,
+  "autoPairMarkdown": true,
+  "autoPairBrackets": true,
+  "readableLineLength": true,
+  "showIndentGuide": false,
+  "attachmentFolderPath": "images"
+}
