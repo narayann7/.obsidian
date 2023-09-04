@@ -1,0 +1,39 @@
+[
+  {
+    "tag": "excalidraw",
+    "tagCount": 3,
+    "relativePaths": [
+      "sketches/excalidraw/excali current.md",
+      "sketches/excalidraw/Drawing 2023-06-05 17.51.03.excalidraw.md",
+      "sketch/excalidraw/Drawing 2023-09-02 17.10.15.excalidraw.md"
+    ]
+  },
+  {
+    "tag": "windows",
+    "tagCount": 1,
+    "relativePaths": [
+      "private/technology/softwares dump.md"
+    ]
+  },
+  {
+    "tag": "microsoft",
+    "tagCount": 1,
+    "relativePaths": [
+      "private/technology/softwares dump.md"
+    ]
+  },
+  {
+    "tag": "remember",
+    "tagCount": 1,
+    "relativePaths": [
+      "private/learning/howto?/howdump.md"
+    ]
+  },
+  {
+    "tag": "create",
+    "tagCount": 1,
+    "relativePaths": [
+      "private/learning/howto?/howdump.md"
+    ]
+  }
+]
