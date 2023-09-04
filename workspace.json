@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b7fa2d486192c253",
+        "id": "33d4cba83571b265",
         "type": "tabs",
         "children": [
           {
-            "id": "2f941fe6848f542c",
+            "id": "c35db38f84e1d51c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/selfhelp/maintenance Calories.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:dede]\\",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 263.5
   },
   "right": {
     "id": "b533c46ea16455d3",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/selfhelp/maintenance Calories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private/selfhelp/maintenance Calories.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,9 +112,19 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2a265f44bc0551ed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -140,58 +142,59 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f941fe6848f542c",
+  "active": "c35db38f84e1d51c",
   "lastOpenFiles": [
-    "private/learning/concepts/obsdian and md.md",
-    "private/selfhelp/maintenance Calories.md",
+    "files/excalidraw/cs/class_uml.png",
+    "files/images/dev/class_uml.png",
+    "files/images/dev/Association.png",
+    "files/excalidraw/cs/Association.png",
     "private/learning/cs/git/Writing a Good Git Commit.md",
-    "private/learning/cs/system design/system design concepts.md",
-    "private/learning/cs/git",
+    "private/selfhelp/nutrients/protein sheet.md",
+    "private/learning/cs/low level design/UML Diagram.md",
+    "private/learning/cs/low level design/Low Level Design 👻.md",
+    "private/learning/cs/low level design/0 index LLD.md",
+    "private/learning/concepts/ASCII colour code.md",
+    "private/selfhelp/nutrients/my diet.md",
+    "private/projects/portfolio v2.md",
+    "files/pdfs/protein sheet.pdf",
+    "files/learning/recital.txt",
+    "files/pdfs/protein sheet.xlsx",
+    "files/images/dev/dart-cheatsheet.jpg",
+    "files/images/dev",
+    "sketch/canvas/Untitled.canvas",
+    "files/images",
+    "files/pdfs",
+    "files/learning/dart-cheatsheet.jpg",
+    "files/excalidraw/cs",
+    "files/tech",
+    "files/learning",
+    "files/excalidraw",
+    "sketches/excalidraw/Drawing 2023-06-05 17.51.03.excalidraw.md",
+    "sketches/excalidraw/excali current.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "private/selfhelp/maintenance Calories.md",
+    "private/current/home dump.md",
+    "private/current/Untitled 1.md",
+    "private/current/1900.md",
+    "private/current/Untitled.md",
+    "Untitled 2.canvas",
+    "sketch/excalidraw/Drawing 2023-09-02 17.10.15.excalidraw.md",
+    "private/todo/2023-09-02.md",
+    "private/career/job/companies/list.md",
+    "private/career/job/companies/flutter.md",
+    "private/career/work/app config.md",
+    "private/selfhelp/dump.md",
+    "private/selfhelp/healthy.md",
+    "private/learning/tech/flutter/sign apk.md",
+    "private/learning/tech/flutter/testing helpers.md",
+    "private/learning/tech/flutter/useful snippets.md",
     "images/Pasted image 20230814124755.png",
     "images/Pasted image 20230814124718.png",
-    "private/learning/cs/important.md",
-    "private/selfhelp/products/head shave.md",
-    "private/selfhelp/products",
-    "private/current/home dump.md",
-    "private/todo/links.md",
-    "private/todo/Day.md",
-    "private/todo/General.md",
-    "private/selfhelp/nutrients/types.md",
-    "private/selfhelp/nutrients/Untitled.md",
-    "private/incomplete/tax planning 💰.md",
-    "private/selfhelp/nutrients",
-    "private/learning/cs/low level design/0 index LLD.md",
-    "private/learning/tech/flutter/testing.md",
-    "private/career/work/todo.md",
-    "private/career/work/app config.md",
-    "sketches/excalidraw/current working file.md",
-    "private/incomplete/paths.md",
-    "get_path_of_finder.zsh",
-    "private/todo/Unclutter Notes/Unclutter Note 2023-07-18 15.56.05.txt",
     "sketches/canvas/Untitled.canvas",
-    "sketches/excalidraw/Drawing 2023-06-05 17.51.03.excalidraw.md",
     "images/excalidraw/cs/Association.png",
     "images/excalidraw/cs/class_uml.png",
-    "sketches/db/wireframe.excalidrawlib",
-    "sketches/db/shapes.excalidrawlib",
-    "sketches/db/shape.excalidrawlib",
-    "sketches/db/icons.excalidrawlib",
-    "sketches/db/character.excalidrawlib",
-    "private/learning/cs/low level design/Low Level Design 👻.md",
-    "private/learning/tech/flutter/rsa.md",
-    "private/learning/tech/flutter/sign apk.md",
-    "private/learning/tech/flutter/ui.md",
-    "private/projects/portfolio v2.md",
-    "private/current/Untitled.md",
     "images/learning/dart-cheatsheet.jpg",
-    "images/dart-cheatsheet.jpg",
-    "images/image_6aa54e21-65de-47b2-b4dd-4c699219af3720211023_073137.jpg",
-    "sketch/canvas/Untitled.canvas",
-    "public/sketch/canvas/Untitled.canvas",
-    "Untitled.canvas",
-    "images/Pasted image 20230613125418.png",
-    "images/Pasted Image 20230613174305_966.png",
-    "images/Pasted Image 20230613183146_333.png",
-    "Untitled 1.canvas"
+    "public/sketch/canvas/Untitled.canvas"
   ]
 }
