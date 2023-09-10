@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33d4cba83571b265",
+        "id": "110edec1685792af",
         "type": "tabs",
         "children": [
           {
-            "id": "c35db38f84e1d51c",
+            "id": "37b10ed9bee891b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/current/home dump.md",
+                "file": "private/selfhelp/nutrients/types.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/current/home dump.md",
+                "file": "private/selfhelp/nutrients/types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/current/home dump.md"
+                "file": "private/selfhelp/nutrients/types.md"
               }
             }
           },
@@ -132,11 +132,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,59 +151,59 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e288b378e9169b02",
+  "active": "37b10ed9bee891b7",
   "lastOpenFiles": [
-    "private/technology/website extra.md",
+    "files/update.zsh",
+    "files/staging/update.zsh",
+    "private/selfhelp/mydiet/protein sheet.md",
+    "private/selfhelp/mydiet/macros.md",
+    "private/selfhelp/mydiet/calories.md",
+    "private/selfhelp/mydiet/foods",
+    "private/selfhelp/mydiet",
+    "private/selfhelp/products/head shave.md",
+    "private/selfhelp/nutrients/types.md",
     "private/current/home dump.md",
-    "private/technology/websites.md",
-    "private/projects/portfolio v2.md",
-    "private/career/job/total cash.md",
+    "private/selfhelp/nutrients/1. Nutrition basics.md",
+    "private/selfhelp/hypertroph/nutrients",
+    "private/thoughts/quotes.md",
+    "private/thoughts/craving.md",
+    "private/thoughts/good lines.md",
+    "private/structures/brain structure.md",
+    "private/learning/concepts/obsdian and md.md",
+    "private/learning/concepts/ASCII colour code.md",
+    "private/learning/cheat sheets/Git command (Zsh).md",
+    "private/learning/cheat sheets/dart.md",
+    "private/incomplete/tax planning 💰.md",
+    "private/current/Screenshot_20230514_215022.png.md",
+    "private/incomplete/nymbles salarys tax.md",
     "private/career/about me.md",
+    "private/career/job/total cash.md",
+    "private/career/job/Reject , cancel.md",
     "private/career/job/introduction.md",
-    "private/learning/todo.md",
+    "private/career/job/cover letters.md",
+    "private/selfhelp/hypertroph/root.md",
+    "private/selfhelp/hypertroph/test.md",
+    "files/images/life",
+    "files/images/life/carbs.png",
+    "Pasted image 20230909003229.png",
+    "files/pdfs/protein sheet.pdf",
+    "private/selfhelp/hypertroph",
+    "files/staging/images/dev/class_uml.png",
+    "files/staging/images/dev/class_uml.png.vulucad7.partial",
+    "files/staging/images/dev/dart-cheatsheet.jpg",
+    "files/staging/images/dev/Association.png",
+    "files/staging/images/dev/dart-cheatsheet.jpg.gopiteg7.partial",
+    "files/staging/images/dev/Association.png.vameyek7.partial",
     "files/excalidraw/cs/class_uml.png",
     "files/images/dev/class_uml.png",
     "files/images/dev/Association.png",
     "files/excalidraw/cs/Association.png",
-    "private/learning/cs/git/Writing a Good Git Commit.md",
-    "private/selfhelp/nutrients/protein sheet.md",
-    "private/learning/cs/low level design/UML Diagram.md",
-    "private/learning/cs/low level design/Low Level Design 👻.md",
-    "private/learning/cs/low level design/0 index LLD.md",
-    "private/learning/concepts/ASCII colour code.md",
-    "private/selfhelp/nutrients/my diet.md",
-    "files/pdfs/protein sheet.pdf",
-    "files/learning/recital.txt",
-    "files/pdfs/protein sheet.xlsx",
     "files/images/dev/dart-cheatsheet.jpg",
-    "files/images/dev",
     "sketch/canvas/Untitled.canvas",
-    "files/images",
-    "files/pdfs",
-    "files/learning/dart-cheatsheet.jpg",
-    "files/excalidraw/cs",
-    "files/tech",
-    "files/learning",
-    "files/excalidraw",
-    "sketches/excalidraw/Drawing 2023-06-05 17.51.03.excalidraw.md",
-    "sketches/excalidraw/excali current.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "private/selfhelp/maintenance Calories.md",
-    "private/current/Untitled 1.md",
-    "private/current/1900.md",
-    "private/current/Untitled.md",
     "Untitled 2.canvas",
-    "sketch/excalidraw/Drawing 2023-09-02 17.10.15.excalidraw.md",
-    "private/todo/2023-09-02.md",
-    "private/career/job/companies/list.md",
-    "private/career/job/companies/flutter.md",
-    "private/career/work/app config.md",
-    "images/Pasted image 20230814124755.png",
-    "images/Pasted image 20230814124718.png",
     "sketches/canvas/Untitled.canvas",
-    "images/excalidraw/cs/Association.png",
-    "images/excalidraw/cs/class_uml.png",
     "public/sketch/canvas/Untitled.canvas"
   ]
 }

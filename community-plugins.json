@@ -10,6 +10,7 @@
   "obsidian-text-format",
   "metadata-extractor",
   "obsidian-advanced-uri",
-  "make-md",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "convert-url-to-iframe",
+  "make-md"
 ]
