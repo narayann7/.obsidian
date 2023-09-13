@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "110edec1685792af",
+        "id": "26f6189c4d4de6d5",
         "type": "tabs",
         "children": [
           {
-            "id": "37b10ed9bee891b7",
+            "id": "1d120293b0a19076",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/selfhelp/nutrients/types.md",
+                "file": "private/current/home dump.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/selfhelp/nutrients/types.md",
+                "file": "private/current/home dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/selfhelp/nutrients/types.md"
+                "file": "private/current/home dump.md"
               }
             }
           },
@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,8 +150,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "37b10ed9bee891b7",
+  "active": "1d120293b0a19076",
   "lastOpenFiles": [
+    "private/todo/roadmaps/for next 1 year.md",
+    "private/todo/Day.md",
+    "private/todo/General.md",
+    "private/todo/Month.md",
+    "private/todo/links.md",
+    "private/todo/2023-09-02.md",
+    "private/learning/tech/flutter/sign apk.md",
+    "private/learning/random.md",
+    "private/technology/website extra.md",
+    "private/selfhelp/nutrients/types.md",
+    "private/todo/roadmaps",
+    "update_all.zsh",
+    "update.zsh",
+    "sketches/update.zsh",
     "files/update.zsh",
     "files/staging/update.zsh",
     "private/selfhelp/mydiet/protein sheet.md",
@@ -161,7 +174,6 @@
     "private/selfhelp/mydiet/foods",
     "private/selfhelp/mydiet",
     "private/selfhelp/products/head shave.md",
-    "private/selfhelp/nutrients/types.md",
     "private/current/home dump.md",
     "private/selfhelp/nutrients/1. Nutrition basics.md",
     "private/selfhelp/hypertroph/nutrients",
@@ -175,25 +187,12 @@
     "private/learning/cheat sheets/dart.md",
     "private/incomplete/tax planning 💰.md",
     "private/current/Screenshot_20230514_215022.png.md",
-    "private/incomplete/nymbles salarys tax.md",
-    "private/career/about me.md",
-    "private/career/job/total cash.md",
-    "private/career/job/Reject , cancel.md",
-    "private/career/job/introduction.md",
-    "private/career/job/cover letters.md",
-    "private/selfhelp/hypertroph/root.md",
-    "private/selfhelp/hypertroph/test.md",
     "files/images/life",
     "files/images/life/carbs.png",
     "Pasted image 20230909003229.png",
-    "files/pdfs/protein sheet.pdf",
-    "private/selfhelp/hypertroph",
     "files/staging/images/dev/class_uml.png",
-    "files/staging/images/dev/class_uml.png.vulucad7.partial",
     "files/staging/images/dev/dart-cheatsheet.jpg",
     "files/staging/images/dev/Association.png",
-    "files/staging/images/dev/dart-cheatsheet.jpg.gopiteg7.partial",
-    "files/staging/images/dev/Association.png.vameyek7.partial",
     "files/excalidraw/cs/class_uml.png",
     "files/images/dev/class_uml.png",
     "files/images/dev/Association.png",
