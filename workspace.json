@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "26f6189c4d4de6d5",
+        "id": "a1065c16fbbad016",
         "type": "tabs",
         "children": [
           {
-            "id": "1d120293b0a19076",
+            "id": "ac80d6e545095e7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/current/home dump.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/current/home dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private/current/home dump.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,44 +142,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1d120293b0a19076",
+  "active": "ac80d6e545095e7c",
   "lastOpenFiles": [
-    "files/staging/upload.zsh",
-    "private/todo/roadmaps/for next 1 year.md",
-    "private/todo/Day.md",
-    "private/todo/General.md",
-    "private/todo/Month.md",
+    "private/learning/concepts/rclone.md",
+    "private/learning/concepts/obsdian and md.md",
+    "private/learning/concepts/ASCII colour code.md",
+    "private/todo/month.md",
+    "private/todo/general.md",
+    "private/todo/day.md",
+    "private/todo/year.md",
     "private/todo/links.md",
+    "private/selfhelp/mydiet/macros.md",
+    "private/selfhelp/mydiet/protein sheet.md",
+    "private/selfhelp/nutrients/types.md",
+    "private/selfhelp/nutrients/1. Nutrition basics.md",
+    "private/current/home dump.md",
+    "files/staging/upload.zsh",
     "private/todo/2023-09-02.md",
     "private/learning/tech/flutter/sign apk.md",
     "private/learning/random.md",
     "private/technology/website extra.md",
-    "private/selfhelp/nutrients/types.md",
     "private/todo/roadmaps",
     "update_all.zsh",
     "update.zsh",
     "sketches/update.zsh",
     "files/update.zsh",
     "files/staging/update.zsh",
-    "private/selfhelp/mydiet/protein sheet.md",
-    "private/selfhelp/mydiet/macros.md",
     "private/selfhelp/mydiet/calories.md",
     "private/selfhelp/mydiet/foods",
     "private/selfhelp/mydiet",
     "private/selfhelp/products/head shave.md",
-    "private/current/home dump.md",
-    "private/selfhelp/nutrients/1. Nutrition basics.md",
     "private/selfhelp/hypertroph/nutrients",
     "private/thoughts/quotes.md",
     "private/thoughts/craving.md",
     "private/thoughts/good lines.md",
     "private/structures/brain structure.md",
-    "private/learning/concepts/obsdian and md.md",
-    "private/learning/concepts/ASCII colour code.md",
     "private/learning/cheat sheets/Git command (Zsh).md",
     "private/learning/cheat sheets/dart.md",
     "private/incomplete/tax planning 💰.md",
-    "files/images/life",
     "files/images/life/carbs.png",
     "Pasted image 20230909003229.png",
     "files/staging/images/dev/class_uml.png",
