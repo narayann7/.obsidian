@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a1065c16fbbad016",
+        "id": "6554b136dc2091c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ac80d6e545095e7c",
+            "id": "54e6a1fb8bfbbc6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "private/learning/tech/flutter/fvm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "private/learning/tech/flutter/fvm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "private/learning/tech/flutter/fvm.md"
+              }
             }
           },
           {
@@ -128,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,21 +151,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ac80d6e545095e7c",
+  "active": "54e6a1fb8bfbbc6b",
   "lastOpenFiles": [
+    "private/career/work/app config.md",
+    "private/learning/tech/flutter/fvm.md",
+    "private/career/work/todo.md",
+    "private/todo/year.md",
+    "private/career/job/companies/flutter.md",
+    "private/learning/cs/backend/projects.md",
+    "private/learning/cs/backend/dump.md",
+    "private/projects/portfolio v2.md",
+    "private/learning/cs/backend",
+    "private/current/home dump.md",
     "private/learning/concepts/rclone.md",
     "private/learning/concepts/obsdian and md.md",
     "private/learning/concepts/ASCII colour code.md",
     "private/todo/month.md",
     "private/todo/general.md",
     "private/todo/day.md",
-    "private/todo/year.md",
     "private/todo/links.md",
     "private/selfhelp/mydiet/macros.md",
     "private/selfhelp/mydiet/protein sheet.md",
     "private/selfhelp/nutrients/types.md",
     "private/selfhelp/nutrients/1. Nutrition basics.md",
-    "private/current/home dump.md",
     "files/staging/upload.zsh",
     "private/todo/2023-09-02.md",
     "private/learning/tech/flutter/sign apk.md",
@@ -172,14 +189,6 @@
     "private/selfhelp/mydiet/foods",
     "private/selfhelp/mydiet",
     "private/selfhelp/products/head shave.md",
-    "private/selfhelp/hypertroph/nutrients",
-    "private/thoughts/quotes.md",
-    "private/thoughts/craving.md",
-    "private/thoughts/good lines.md",
-    "private/structures/brain structure.md",
-    "private/learning/cheat sheets/Git command (Zsh).md",
-    "private/learning/cheat sheets/dart.md",
-    "private/incomplete/tax planning 💰.md",
     "files/images/life/carbs.png",
     "Pasted image 20230909003229.png",
     "files/staging/images/dev/class_uml.png",

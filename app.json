@@ -4,7 +4,7 @@
   "spellcheck": true,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "newFileLocation": "folder",
   "promptDelete": false,
   "newFileFolderPath": "private/current",
@@ -13,5 +13,9 @@
   "autoPairBrackets": true,
   "readableLineLength": true,
   "showIndentGuide": false,
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "userIgnoreFilters": [
+    "\"/.zsh/\"",
+    "\"/(.zsh)/\""
+  ]
 }
