@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9b5fb882b4e06c2a",
+        "id": "5beed87517277027",
         "type": "tabs",
         "children": [
           {
-            "id": "6d92d3e585d19d63",
+            "id": "a2a4476a4ee8f0a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/career/job/companies/from pdfs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/career/job/companies/from pdfs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private/career/job/companies/from pdfs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,10 +143,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6d92d3e585d19d63",
+  "active": "a2a4476a4ee8f0a0",
   "lastOpenFiles": [
-    "files/pdfs/carrer/banglore_startps.pdf",
+    "private/career/project des.md",
     "private/career/job/companies/from pdfs.md",
+    "files/pdfs/carrer/banglore_startps.pdf",
     "private/career/job/companies/list.md",
     "private/career/job/companies/remote.md",
     "private/career/job/companies/flutter.md",
