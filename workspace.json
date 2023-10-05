@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5beed87517277027",
+        "id": "0c1a9ce0d1d8033a",
         "type": "tabs",
         "children": [
           {
-            "id": "a2a4476a4ee8f0a0",
+            "id": "5790914506ea8857",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "private/career/work/app config.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "private/career/work/app config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "private/career/work/app config.md"
+              }
             }
           },
           {
@@ -143,14 +151,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a2a4476a4ee8f0a0",
+  "active": "5790914506ea8857",
   "lastOpenFiles": [
+    "sketches/excalidraw/Drawing 2023-10-03 15.32.23.excalidraw.md",
+    "private/career/job/companies/flutter.md",
     "private/career/project des.md",
     "private/career/job/companies/from pdfs.md",
     "files/pdfs/carrer/banglore_startps.pdf",
     "private/career/job/companies/list.md",
     "private/career/job/companies/remote.md",
-    "private/career/job/companies/flutter.md",
     "private/career/from people.md",
     "private/career/total cash.md",
     "private/career/Reject , cancel.md",
@@ -174,7 +183,6 @@
     "private/learning/cs/backend",
     "private/current/home dump.md",
     "private/learning/concepts/rclone.md",
-    "private/learning/concepts/obsdian and md.md",
     "files/staging/upload.zsh",
     "private/todo/roadmaps",
     "update_all.zsh",
