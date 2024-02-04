@@ -1,14 +1,5 @@
 [
   {
-    "tag": "excalidraw",
-    "tagCount": 3,
-    "relativePaths": [
-      "sketches/excalidraw/excali current.md",
-      "sketches/excalidraw/Drawing 2023-10-03 15.32.23.excalidraw.md",
-      "sketches/excalidraw/Drawing 2023-06-05 17.51.03.excalidraw.md"
-    ]
-  },
-  {
     "tag": "windows",
     "tagCount": 1,
     "relativePaths": [
@@ -34,6 +25,17 @@
     "tagCount": 1,
     "relativePaths": [
       "private/learning/howto?/howdump.md"
+    ]
+  },
+  {
+    "tag": "excalidraw",
+    "tagCount": 5,
+    "relativePaths": [
+      "sketches/excalidraw/Drawing 2024-02-02 16.34.32.excalidraw.md",
+      "sketches/excalidraw/Drawing 2024-02-02 16.32.32.excalidraw.md",
+      "sketches/excalidraw/Drawing 2023-10-03 15.32.23.excalidraw.md",
+      "sketches/excalidraw/excali current.md",
+      "sketches/excalidraw/Drawing 2023-06-05 17.51.03.excalidraw.md"
     ]
   }
 ]
