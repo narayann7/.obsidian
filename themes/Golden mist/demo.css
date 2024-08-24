@@ -18,7 +18,7 @@
   --text-a-hover: #6bcafb;
   --text-mark: #263d92;
   --code-background: var(--background-secondary);
-  --interactive-accent: rgba(255, 191, 59, 1);
+  --interactive-accent: rgb(59, 255, 167);
   --interactive-accent-hover: rgba(255, 191, 59, 0.8);
   --interactive-before: #5e6565;
   --blockquote-border: #ffbf3b;
@@ -26,7 +26,7 @@
   --interactive-accent-rgb: #3dd7fb;
   --font-family-editor: "Rubik";
   --font-family-preview: "Rubik";
-  --bg-sub-accent-55: rgba(255, 147, 59,0.55);
+  --bg-sub-accent-55: rgba(255, 147, 59, 0.55);
   --bg-accent-55: rgba(255, 191, 59, 0.55);
   --bg-accent-25: rgba(255, 191, 59, 0.5);
   --text-highlight-bg: rgba(255, 147, 59, 0.25);
@@ -481,7 +481,6 @@ h6 {
   border-width: 1px;
   border-image-slice: 1;
   color: #0a0a0a;
-
 }
 
 .HyperMD-header {
@@ -538,7 +537,6 @@ h6 {
   border-width: 35%;
   border-image-slice: 1;
   color: #bebebe;
-
 }
 
 .view-header-icon {
@@ -566,14 +564,11 @@ h6 {
   border-bottom: 1px solid;
   border-image-slice: 1;
   border-width: 1px;
-  border-image-source: linear-gradient(
-    #5e6565,
-  );
+  border-image-source: linear-gradient(#5e6565);
 }
 
 .cm-line hr::after,
 .markdown-preview-view hr::after {
-
   display: inline-block;
   position: absolute;
   left: 50%;
@@ -1242,7 +1237,6 @@ blockquote {
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock span.cm-type {
   color: #ffb86c;
 }
-
 
 pre::-webkit-scrollbar {
   width: 14px;
