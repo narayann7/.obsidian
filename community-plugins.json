@@ -1,18 +1,17 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-kanban",
   "obsidian-git",
-  "obsidian-completr",
-  "txt-as-md-obsidian",
-  "obsidian-mind-map",
-  "omnisearch",
-  "obsidian-dictionary-plugin",
-  "obsidian-text-format",
-  "metadata-extractor",
   "obsidian-advanced-uri",
-  "obsidian-enhancing-export",
   "convert-url-to-iframe",
+  "various-complements",
   "make-md",
-  "editing-toolbar",
-  "mdx"
+  "obsidian-mind-map",
+  "obsidian-enhancing-export",
+  "omnisearch",
+  "obsidian-text-format",
+  "txt-as-md-obsidian",
+  "metadata-extractor",
+  "mdx",
+  "obsidian-kanban",
+  "editing-toolbar"
 ]
