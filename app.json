@@ -8,7 +8,7 @@
   "newFileLocation": "folder",
   "promptDelete": false,
   "newFileFolderPath": "private/current",
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "autoPairMarkdown": true,
   "autoPairBrackets": true,
   "readableLineLength": true,

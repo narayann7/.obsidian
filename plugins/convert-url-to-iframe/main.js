@@ -6673,3 +6673,5 @@ var FormatNotionPlugin = class extends import_obsidian3.Plugin {
   }
 };
 /*! @license DOMPurify 2.3.4 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.3.4/LICENSE */
+
+/* nosourcemap */
