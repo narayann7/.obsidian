@@ -7,12 +7,12 @@
   "obsidian-enhancing-export",
   "omnisearch",
   "obsidian-text-format",
-  "txt-as-md-obsidian",
   "metadata-extractor",
   "mdx",
   "obsidian-kanban",
   "obsidian-quiet-outline",
   "obsidian-advanced-uri",
   "convert-url-to-iframe",
-  "password-protection"
+  "password-protection",
+  "txt-as-md-obsidian"
 ]
