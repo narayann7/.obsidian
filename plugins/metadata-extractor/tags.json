@@ -20,35 +20,35 @@
     "tag": "windows",
     "tagCount": 1,
     "relativePaths": [
-      "private/technology/softwares dump.md"
+      "old/technology/softwares dump.md"
     ]
   },
   {
     "tag": "microsoft",
     "tagCount": 1,
     "relativePaths": [
-      "private/technology/softwares dump.md"
+      "old/technology/softwares dump.md"
     ]
   },
   {
     "tag": "0a0b14",
     "tagCount": 1,
     "relativePaths": [
-      "private/projects/portfolio v2.md"
+      "old/projects/portfolio v2.md"
     ]
   },
   {
     "tag": "remember",
     "tagCount": 1,
     "relativePaths": [
-      "private/learning/howto?/howdump.md"
+      "old/learning/howto?/howdump.md"
     ]
   },
   {
     "tag": "create",
     "tagCount": 1,
     "relativePaths": [
-      "private/learning/howto?/howdump.md"
+      "old/learning/howto?/howdump.md"
     ]
   }
 ]
